@@ -16,7 +16,7 @@ init()
 def start():
 
 	print(Fore.GREEN + "A simply IP-TRACKER using the ip-api.com API.")
-	print("By Crystal/Pearl\n\n")
+	print("By xPearl\n\n")
 
 
 
