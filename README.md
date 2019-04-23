@@ -7,11 +7,11 @@ An IP-Tracker CLI for nerds who only know the command line
 
 Setup : 
 
-
+```
 $ pip install -r requirements.txt
 
 $ python3 IPtracker.py
-
+```
 
 
 License
